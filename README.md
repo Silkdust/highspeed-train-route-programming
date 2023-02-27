@@ -5,6 +5,7 @@ The project is the coursework of the course Operational Optimization and Decisio
 
 The structure of this project is as follows:
 
+```shell
 ├── PPT
   ├── A PowerPoint for presentation
 ├── Excel
@@ -20,6 +21,7 @@ The structure of this project is as follows:
 ├── report
   ├── 《运筹优化与最优决策》第五组期末报告——基于整数优化的高速列车运行路径优化问题.pdf  Project report in Chinese
 └── README.md  README file
+```
 
 Notes:
 
