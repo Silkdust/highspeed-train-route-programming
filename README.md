@@ -1,7 +1,7 @@
 # highspeed-train-route-programming
 A project aimed to design routes for high speed trains using 0-1 integer programming.
 
-The project is the coursework of the course Operational Optimization and Decision Making in the Spring Semester, 2022. The project is mainly contributed by me, and my teammates Jasper Wang and Zihan Zhao for their great contributions.
+The project is the coursework of the course Operational Optimization and Decision Making in the Spring Semester, 2022. The project is mainly contributed by me. My teammates Jasper Wang and Zihan Zhao also made great contributions.
 
 The structure of this project is as follows:
 
@@ -33,7 +33,11 @@ Notes:
   3. -f Filepath 文件路径. Example: ./data/Project_.xls
   Usage Example: Python3.8 Optimizer_args.py -o 北京 -d 桂林 -f ./data/Project_.xls
 
-The project is mainly based on Python and pyGurobi. Depedent packages are listed in requirements.txt. Feel free to contact me for any problems.
+The project is mainly based on Python and pyGurobi. Depedent packages are listed in requirements.txt. As a result, please run the following command before you delve into source codes:
+```
+pip install -r requirements.txt
+```
+Feel free to contact me for any problems.
 
 ## References
 
