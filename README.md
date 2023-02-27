@@ -34,3 +34,13 @@ Notes:
   Usage Example: Python3.8 Optimizer_args.py -o 北京 -d 桂林 -f ./data/Project_.xls
 
 The project is mainly based on Python and pyGurobi. Depedent packages are listed in requirements.txt. Feel free to contact me for any problems.
+
+## References
+
+- 闫绍辉,张天伟,董隆健.高速铁路跨线列车运行路径选择优化模型[J].铁道运输与经济,2021,43(05):109-116.DOI:10.16668/j.cnki.issn.1003-1421.2021.05.17.
+- 毛万华,陈亚茹.高速铁路列车运行图新增列车运行线优化方法研究[J].铁道运输与经济,2021,43(11):1-6+26.DOI:10.16668/j.cnki.issn.1003-1421.2021.11.01.
+- 葛露露.基于群决策层次分析法的铁路信息化评价考核指标体系权重确定[J].铁路计算机应用,2017,26(04):6-9.
+- 赵若开. 普速铁路与高速铁路跨线旅客列车开行方案优化研究[D].西南交通大学,2018.
+- 《中国城市品牌影响力报告（2021）》. 中国社会科学院财经战略研究院、中国社会科学出版社, https://baijiahao.baidu.com/s?id=1718472393380246339&wfr=spider&for=pc.
+- 中国铁路12306信息网站. www.12306.cn
+- 线路基本信息. 中华人民共和国国家发展和改革委员会网站.
